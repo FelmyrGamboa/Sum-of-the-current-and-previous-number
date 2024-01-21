@@ -21,6 +21,7 @@ starting_number = 0
 previous_number = starting_number
 
 #Create a for loop with a range of 10 using i as current number's value
+for i in range(10):
 #Calculate for the sum of the previous number with the i as current number
 #Change the previous number to be the current number 
 #Display the result
