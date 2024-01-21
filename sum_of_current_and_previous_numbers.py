@@ -27,3 +27,4 @@ for i in range(10):
 #Change the previous number to be the current number 
     previous_number = i
 #Display the result
+    print("Current number ", i, "Previous Number ", previous_number, "Sum: ", sum)
