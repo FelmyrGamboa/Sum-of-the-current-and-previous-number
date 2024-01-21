@@ -24,7 +24,7 @@ previous_number = starting_number
 for i in range(10):
 #Calculate for the sum of the previous number with the i as current number
     sum = previous_number + i
-#Change the previous number to be the current number 
-    previous_number = i
 #Display the result
     print("Current number ", i, "Previous Number ", previous_number, "Sum: ", sum)
+#Change the previous number to be the current number 
+    previous_number = i
