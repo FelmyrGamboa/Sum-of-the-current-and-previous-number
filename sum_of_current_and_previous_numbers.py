@@ -15,7 +15,11 @@
     # Current Number 8 Previous Number  7  Sum:  15
     # Current Number 9 Previous Number  8  Sum:  17
 
+print("Printing current and previous number sum in a range(10)")
 #Assign the previous number to start with
+starting_number = 0
+previous_number = starting_number
+
 #Create a for loop with a range of 10 using i as current number's value
 #Calculate for the sum of the previous number with the i as current number
 #Change the previous number to be the current number 
